@@ -1,6 +1,6 @@
 cask "aruvisoft-jiggler" do
-  version "2.7.0"
-  sha256 "ad3603cb66b5acd202bb622f8bf30cee22885bc96ee2063f3cf10732d01b7db6"
+  version "2.7.1"
+  sha256 "64835aab38975957339a25582d87792142907bc81aa585215047397ba57d19e4"
 
   url "https://aruvisoft.in/assets/Jiggler-#{version}.dmg"
   name "Jiggler"
